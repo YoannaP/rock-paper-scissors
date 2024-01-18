@@ -1,3 +1,5 @@
+# Client-side App: Rock Paper Scissors 
+
 I would like to get familiar with web-development so that I can make some of my other repositories more accssible and friendly. 
 This repo is the start to that. 
 
